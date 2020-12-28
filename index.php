@@ -6,7 +6,7 @@
     <title>Git + GitHub</title>
 </head>
 <body>
-    <div>Ejemplos del curso Git + GitHub</div>
+    <h1>Ejemplos del curso Git + GitHub</h1>
     
 </body>
 </html>
