@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Ejemplos del curso Git + GitHub</h1>
+    <p>Se agrega código desde github.</p>
     
 </body>
 </html>
