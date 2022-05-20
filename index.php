@@ -8,6 +8,7 @@
 <body>
     <h1>Ejemplos del curso Git + GitHub</h1>
     <p>Se agrega código desde github.</p>
-    
+
+    <p>Se agregan cambios para la rama master</p>
 </body>
 </html>
