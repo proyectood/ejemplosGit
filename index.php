@@ -10,5 +10,6 @@
     <p>Se agrega código desde github.</p>
 
     <p>Se agregan cambios para la rama master</p>
+    <p>Se agregan cambios para la rama master2</p>
 </body>
 </html>
